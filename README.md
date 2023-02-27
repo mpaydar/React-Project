@@ -1,6 +1,6 @@
 # React-Projects
 
-This a series of projects that includes my personal react projects. I will update the list time by time. 
+These are a series of projects that includes my personal react projects. Most of the projects include react along with another technology. I will update the list time by time. 
 1. Yelp-React-Exprss project:
   ## Summary:
     A. On the front end , there are two input boxes asking about service and city you are interested then you click on search.
