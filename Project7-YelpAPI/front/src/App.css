@@ -1,0 +1,101 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.serviceInput{
+    position: relative;
+    margin: 20px;
+    top: 50px;
+   
+    
+}
+
+
+.cityInput{
+  position: relative;
+  margin: 20px;
+  top: 50px;
+}
+
+.c{
+  position: sticky;
+  border-radius: 500px;
+  font-size: 20px;
+}
+
+.s{
+  border-radius: 500px;
+  font-size: 20px
+}
+
+.searchObject{
+  border-radius: 500px;
+  font-size: 20px;
+  position: relative;
+  top: 40px;
+  left: 80px;
+}
+
+.mainHeader{
+  font-family:cursive;
+  position: relative;
+  top: 50px;
+  left: 10px;
+}
+
+body{
+  background-color:blanchedalmond;
+}
+
+.yelp_logo{
+  position: relative;
+  top: 10px;
+  left: 20px;
+}
+
+
+.mylist{
+  position:relative;
+  top: 60px;
+  left: 710px;
+  border-style: outset;
+  width: fit-content;
+  background-color: rgb(104, 47, 47);
+  color: white;
+}
